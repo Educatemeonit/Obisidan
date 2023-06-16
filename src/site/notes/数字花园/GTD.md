@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//gtd/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/数字花园/GTD/","noteIcon":"","created":"","updated":""}
 ---
 
 
